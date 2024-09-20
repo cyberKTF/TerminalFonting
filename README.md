@@ -1,4 +1,5 @@
 # TerminalFonting
+**CURRENTLY RUNS ON WINDOWS ONLY**
 Turn Your Letters (and only letters) into zeros and dash font style
 
 You can only put English words (and sentences that only contain English letters and space characters)
